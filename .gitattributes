@@ -1,0 +1,4 @@
+*.txt       eol=crlf
+*.md        eol=crlf
+*.csv       eol=crlf
+
