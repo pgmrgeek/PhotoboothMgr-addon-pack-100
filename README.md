@@ -1,5 +1,5 @@
 Photobooth Manager - Addon Pack 100 <br>  [![PayPayl donate button](http://img.shields.io/paypal/donate.png?color=yellow)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7JRTAVG63XHUL  "Donate once-off to this project using Paypal")
-==================
+================== 
 
 BETA release 8.01 (A work in progress)
 
